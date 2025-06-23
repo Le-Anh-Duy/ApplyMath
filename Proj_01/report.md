@@ -434,4 +434,4 @@ I guarantee that the images used in this project are either public domain or hav
 
 The results can be reproduced by running the code provided in by the nodebook `23127011.ipynb`.
 
-The images used in this project are available in the repository and can be accessed by anyone who wants to reproduce the results.
+The images used in this project are available in my repository [here](https://github.com/Le-Anh-Duy/ApplyMath/tree/main/Proj_01) and can be accessed by anyone who wants to reproduce the results.
